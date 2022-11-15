@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/q7icj7x7ly0kkayk?svg=true)](https://ci.appveyor.com/project/AnastasiiaKorch/unit-testing)
